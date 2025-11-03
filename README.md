@@ -1,2 +1,1 @@
-# Glory
-For glory of living god
+<h1>Welcome to Glory App!</h1>
